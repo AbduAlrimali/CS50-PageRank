@@ -1,3 +1,3 @@
-python pagerank.py corpus0
-python pagerank.py corpus1
-python pagerank.py corpus2
+python pagerank.py corpus0 <br />
+python pagerank.py corpus1 <br />
+python pagerank.py corpus2 <br />
